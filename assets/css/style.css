@@ -1,0 +1,58 @@
+body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    line-height: 1.5;
+    font-size: 16px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+.giant {
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to right, #0e4c92, #000080);
+}
+
+.app-title {
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+
+/* card */
+.card {
+    padding: 8px;
+    border-radius: 0%;
+
+}
+
+.card-header {
+    font-size: 20px;
+}
+
+.form-label,
+.form-input {
+    display: block;
+}
+
+.form-input {
+    width: 100%;
+    padding: 2%;
+    margin: 5px;
+}
+
+.btn {
+    font-size: 1.2rem;
+    width: 100%;
+    padding: 5px 5px;
+    margin: 5px 0;
+    background-color: #0e4c92;
+    color: white;
+
+}
